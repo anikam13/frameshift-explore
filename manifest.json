@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "references": []
+  "references": [
+    {
+      "id": "feed-test-20261124082513",
+      "image": "images/feed-test-20261124082513.jpg",
+      "subject": "men",
+      "tags": [
+        "groups"
+      ]
+    }
+  ]
 }
